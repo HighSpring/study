@@ -24,6 +24,7 @@ public class bbb {
         //populaStream();
         
     	streamTest.testLimitAndSkip();
+    	String a = "aaa";
     }
 
     //From Arrays
