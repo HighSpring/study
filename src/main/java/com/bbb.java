@@ -26,6 +26,7 @@ public class bbb {
         
     	streamTest.testLimitAndSkip();
     	String a = "aaa";
+    	String b = "bbb";
     }
 
     //From Arrays
