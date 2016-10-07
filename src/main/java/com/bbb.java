@@ -28,6 +28,7 @@ public class bbb {
     	String a = "aaa";
     	String b = "bbb";
     	String c = "ccc";
+    	String d = "ddd";
     }
 
     //From Arrays
